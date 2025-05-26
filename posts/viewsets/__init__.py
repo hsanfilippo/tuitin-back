@@ -1,1 +1,1 @@
-from .post_viewset import ListarPosts, EditarPosts
+from .post_viewset import ListarCriarPosts, EditarExcluirPosts
