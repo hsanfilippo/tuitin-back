@@ -9,6 +9,7 @@ Este é o back-end do **Tuitin**, um microblog minimalista inspirado no Twitter.
 ## ✨ Funcionalidades
 
 - 📤 **Criação de tuits**
+- 📤 **Cadastro e login de usuários**
 - 📖 **Listagem e detalhes de tuits**
 - ✏️ **Edição de tuits**
 - ❌ **Exclusão de tuits**
