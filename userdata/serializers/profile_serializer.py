@@ -8,7 +8,7 @@ class ProfileSerializer(serializers.ModelSerializer):
 
     class Meta:
         model = Profile
-        fields = ['avatar', 'bio', 'birthdate', 'cover', 'name', 'following', 'followers']
+        fields = ['avatar', 'bio', 'cover', 'name', 'following', 'followers']
 
     def get_following(self, obj):
         return [profile.user.username for profile in obj.following.all()]
