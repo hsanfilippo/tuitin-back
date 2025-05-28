@@ -28,7 +28,7 @@ SECRET_KEY = 'django-insecure-(3jq(ro*v+8(k@93oviy8rj5v^3!&dg()kywn)jah_s+!d_s7y
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = False
 
-ALLOWED_HOSTS = ['test-tuitin-back.onrender.com']
+ALLOWED_HOSTS = ['tuitin-back.onrender.com']
 
 
 # Application definition
